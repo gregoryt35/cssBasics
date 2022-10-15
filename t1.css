@@ -1,0 +1,22 @@
+table, th, td {
+   border: 0px solid;
+   border-collapse: collapse;
+}
+
+tr {
+    border: 1px solid #c4dcf3;
+}
+
+.heading {
+    background-color: #427FEF;
+    color: white;
+}
+
+.odd {
+    background-color: #C1E1C1;
+}
+
+/*This took around 30 minutes to complete.
+What went well was making the table and styling the colors,
+but what took a majority of the time was figuring out how to 
+remove the vertical borders and add the horizontal borders.*/

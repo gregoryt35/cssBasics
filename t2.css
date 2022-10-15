@@ -1,0 +1,12 @@
+#topbox {
+    height: 300px;
+    width: 300px;
+    background-color: orangered;
+    box-shadow: 10px 10px lightgray;
+    border-radius: 15px;
+}
+
+/*This took around 10 minutes to complete.
+What went well was making the box and styling the colors,
+but what took a majority of the time was figuring out how to 
+style the box shadow and make it look realistic.*/
